@@ -1,6 +1,63 @@
 body {
-background-color: blue;
+
 }
 
 
+ /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
 
+    }
+    h1 {
+      color: white;
+      font-family: impact;
+    }
+    h2 {
+      color: white;
+      font-size: 14px;
+    }
+    h3 {
+     color:white;
+     font-family: helvetica;
+     font-size: 14px;
+    
+    }
+    h4 {
+      color:white;
+      font-family: arial;
+      font-size: 14px;
+    }
+    h5 {
+      color:white;
+      font-size:10px;
+
+    }
+    h6 {
+ 
+    }
+    span {
+    color:white;
+   background-color:#607D8B;
+   font-size:10px;
+    }
+    
+    p {
+      color:white;
+      font-size:11px;
+
+    }
+    .div1 {
+      background-color:#263238;
+      padding:10px;
+    }
+    .div2 {
+      background-color:#1565C0;
+      padding:10px;
+
+    }
+    .div3 {
+      background-color:#42A5F5;
+      padding:10px
+    }
+    
